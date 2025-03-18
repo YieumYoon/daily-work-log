@@ -1,6 +1,6 @@
 # 📝 My Developer Work Log  
 
-Welcome to my **daily work log 🪵 repository**! This is where I record **daily/weekly work log** as a developer—whether it's coding, debugging, learning something new, or just vibing with the latest AI tools. 😆  
+🎄Welcome to my **daily work log 🪵 repository**! This is where I record **daily/weekly work log** as a developer—whether it's coding, debugging, learning something new, or just vibing with the latest AI tools. 🪄 
 
 ## 📖 Why I Created This Work Log  
 
