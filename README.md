@@ -23,7 +23,8 @@ But yeah, that’s why I created this repo! 🚀
 
 ## 📂 Work Log Index  
 
-### 🔹 2025  
+### 🔹 2025
+
 - [Week 12 - March 17-23, 2025](2025/2025-week-12.md)  
 
 
