@@ -10,7 +10,9 @@ I realized that if I want to be a **professional**, I need to **keep track of my
 
 But then today, **March 17, 2025**—the first Monday after my **week-long spring break in Chicago** (I saw the **green river** for St. Patrick’s Day! 🍀)—I was working on an **AI call center project** when I had a lightbulb moment. 💡  
 
-I already **write tons of Markdown** for LLMs, documentation, and tracking what **Claude 3.7** worked on during my **"vibe coding" sessions** (yes, I didn’t fully understand the code, but hey—it worked and looked great). So I thought:  
+I already **write tons of Markdown** for LLMs, documentation, and tracking what **Claude 3.7** worked on.
+
+So I thought:  
 
 👉 **What if I just put my daily work log on GitHub using Markdown format?**  
 👉 **What if someone visiting my profile could see my progress?**  
