@@ -27,6 +27,8 @@ But yeah, that’s why I created this repo! 🚀
 
 ### 🔹 2025
 
+- [Week 14 - March 31-April 6, 2025](2025/2025-week-14.md)
+- [Week 13 - March 24-30 , 2025](2025/2025-week-13.md)
 - [Week 12 - March 17-23, 2025](2025/2025-week-12.md)  
 
 
